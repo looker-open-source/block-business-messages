@@ -1,0 +1,26 @@
+{
+  "label": "Google Business Messages Block",
+  "category_label": "Models",
+  "branding": {
+    "image_uri": "",
+    "tagline": "Analyse business messages data to track sessions, messages, response and customer satisfaction rates. Gain insights over trends and highlight active vs. inactive entrypoints by brand"
+  },
+
+  "constants": {
+    "GBM_CONNECTION": {
+      "label": "Connection Name",
+      "value_constraint": "connection"
+    },
+    "GBM_SCHEMA": {
+      "label": "Dataset Name"
+    },
+
+  },
+      "models": [
+        {
+            "name": "google_business_messages_block",
+            "connection_constant": "GBM_CONNECTION"
+        }
+    ]
+
+}
