@@ -4,7 +4,7 @@ connection: "@{GBM_CONNECTION}"
 
 label: "Google Business Messages Block"
 
-#include: "/dashboards/*.dashboard"
+include: "/dashboards/*.dashboard"
 include: "/explores/**/*.explore.lkml"
 
 datagroup: daily {
