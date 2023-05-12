@@ -18,7 +18,7 @@
   },
       "models": [
         {
-            "name": "google_business_messages_block",
+            "name": "block_business_messages",
             "connection_constant": "GBM_CONNECTION"
         }
     ]
