@@ -2,8 +2,8 @@
   "label": "Google Business Messages Block",
   "category_label": "Models",
   "branding": {
-    "image_uri": "",
-    "tagline": "Analyse business messages data to track sessions, messages, response and customer satisfaction rates. Gain insights over trends and highlight active vs. inactive entrypoints by brand"
+    "image_uri": "https://marketplace-api.looker.com/block-icons/messages.png",
+    "tagline": "Visualize and monitor your messaging metrics with the Google Business Messages Block."
   },
 
   "constants": {
