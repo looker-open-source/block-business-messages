@@ -1,7 +1,8 @@
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 <h1><span style="color:#2d7eea">README - Google Business Messages Block</span></h1>
 
 <h2><span style="color:#2d7eea">What does this block do for me?</span></h2>
-
 
 This block presents users metrics from Google Business Messages product.
 With this block, you can :
@@ -38,8 +39,6 @@ During installation, set the following constants for the project -
 <li> Schema Name  - Your schema in BigQuery that contains the Business Messages tables </li>
 <li> Optionally map the table names to the names in your schema, if different from the default names in the block. </li>
 </ul>
-
-
 
 <h2><span style="color:#2d7eea">Post Installation</span></h2>
 This block uses refinements to allow for modification or extension of the LookML content. You can learn more about how to use extentions [here] (https://cloud.google.com/looker/docs/lookml-refinements)
